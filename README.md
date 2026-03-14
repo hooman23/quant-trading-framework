@@ -20,7 +20,7 @@ A systematic, multi-model algorithmic trading framework backtested on S&P 500 da
 
 ## Tearsheet
 
-
+![Tearsheet](tearsheet.png)
 
 ---
 
